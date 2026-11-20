@@ -1,0 +1,8 @@
+{
+  "name": "Kettler Goods",
+  "description": "Architectural homeware, studio lighting, and daily objects retail storefront with live bag, checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
